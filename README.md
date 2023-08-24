@@ -1,5 +1,5 @@
 # Repository Quick Start template
-## Index great and good
+## Index great and goody
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)

@@ -24,7 +24,7 @@ This project's purpose is to create a make Repository with a collection of defau
 - Pull Request Build Test(With Github Actions)
 
 ## Getting Started
-**click `Use this template` and use this template!**
+**click `Use this template` and use this cool  template!**
 <!--
 ### Depencies
  Write about need to install the software and how to install them 

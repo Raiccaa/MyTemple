@@ -1,4 +1,4 @@
-# Repository Quick Start template
+# Repository Quick Start templates
 ## Index great and goody
   - [Overview](#overview) 
   - [Getting Started](#getting-started)

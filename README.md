@@ -9,7 +9,7 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About RepositoryTemplate
+## About RepositoryTemplates
 <!--Wirte one paragraph of project description -->  
 This project's purpose is to create a make Repository with a collection of default settings  
 
